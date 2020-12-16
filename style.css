@@ -58,6 +58,12 @@ body {
         
     }
 
-    
+    /* ----------------------------------About Me------------------------------------------ */
+   .about-me{
+       background-color: white;
+       margin-top: 75px;
+       margin: 0px 40px;
+       padding: 10px;
+   }
    
     
