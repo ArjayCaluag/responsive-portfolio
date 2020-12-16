@@ -3,7 +3,8 @@
 }
 
 body {
-    background-color: grey;
+    
+    background-image: url("https://www.desktopbackground.org/p/2013/09/01/632079_grey-lines-wallpapers_1920x1440_h.png");
 }
 
 
@@ -17,7 +18,6 @@ body {
    font-size: 25px;
 
 }       
-
     .navbar-nav {
     margin-left: auto;
 }
@@ -34,7 +34,6 @@ body {
         background-color:white;
         margin-top: 75px;
     }
-
 
     .form-group {
         margin: 0px 40px;
