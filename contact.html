@@ -8,8 +8,6 @@
     <link href="style.css" rel="stylesheet">
     <title>Ron-Arjay Contact</title>
 
-       
-    
     </head>
     <body>
         <!-- Navbar -->
@@ -42,35 +40,37 @@
         <!-- Contact form -->
         <section >
 
-       
+            
             <div class = "container">
             <div class = "row">
-            <div class = "col-lg-8">
+            <div class = "col-lg-8 col-md-8">
             <form>
-            <div class="form-group w-75">
+           
+           <!-- w-75 added to customize length of input field -->
+                <div class="form-group w-75">
             
-            <h1> Contact</h1>
+            <h1><strong>Contact</strong></h1>
+            <hr></hr>
               <label for="inputName">Name</label>
               <input type="name" class="form-control" id="inputName" aria-describedby="emailHelp" placeholder="Name">
             </div>
+
             <div class="form-group w-75">
               <label for="inputEmail">Email</label>
               <input type="password" class="form-control" id="inputEmail" placeholder="Email">
             </div>
+           
+            <!--<textarea> used instead of <input> because input is generally used for single lined input -->
             <div class="form-group w-75">
-             
                 <label for="inputMessage">Message</label>
-                <input type="Message" class="form-control " id="inputMessage" placeholder="Message">
-
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <textarea style = "height: 90px" type="Message" class="form-control " id="inputMessage" placeholder="Message"></textarea>
+ 
             </div>
+            <button type="submit" class="btn btn-primary btn-lg">Submit</button>
             </form>
         </div>
-   
-     <div class = "col-lg-4">
-                    <p>test</p>
-                </div>
-            
+          
+         
               </div>
             </div>
        
