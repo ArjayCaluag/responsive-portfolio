@@ -65,5 +65,17 @@ body {
        margin: 0px 40px;
        padding: 10px;
    }
+
+ 
+
+   /* -----------------------------------Portfolio-------------------------------------------- */
    
-    
+   .card-body{
+    background-color: white;
+    margin: 0px px;
+    padding: 10px;
+    display: inline-block;
+}
+   .portfolio {
+    margin-top: 75px;
+}
