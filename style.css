@@ -61,10 +61,13 @@ body {
     /* ----------------------------------About Me------------------------------------------ */
    .about-me{
        background-color: white;
-       margin-top: 75px;
-       margin: 0px 40px;
-       padding: 10px;
+       margin: 75px 100px 0px 20px;
+       padding: 20px;
    }
+
+   
+
+   
 
  
 
@@ -79,3 +82,5 @@ body {
    .portfolio {
     margin-top: 75px;
 }
+
+/* ----------------------------------------Footer-------------------------------------------- */
