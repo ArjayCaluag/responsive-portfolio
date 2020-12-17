@@ -3,13 +3,12 @@
 }
 
 body {
-    
     background-image: url("https://www.desktopbackground.org/p/2013/09/01/632079_grey-lines-wallpapers_1920x1440_h.png");
 }
 
 
 /* --------------------------------------Navbar CSS --------------------------------------- */
-    .navbar-brand {
+.navbar-brand {
    
    background-color: #20B2AA;
    color: white !important;
@@ -18,51 +17,51 @@ body {
    font-size: 30px;
 
 }       
-    .navbar-nav {
-    margin-left: auto;
+.navbar-nav {
+     margin-left: auto;
 }
   
-    nav {
-        background-color: white !important;
-    }
+nav {
+     background-color: white !important;
+ }
 
 
     /* ---------------------------------Contact form CSS------------------------------------ */
 
-    h1 {
-        color: #20B2AA;
+ h1 {
+    color: #20B2AA;
     }
     
-    form {
-        background-color:white;
-        margin-top: 75px;
-        padding-bottom: 50px;
+ form {
+    background-color:white;
+    margin-top: 75px;
+    padding-bottom: 50px;
      
     }
 
-    .form-group {
-        margin: 0px 40px;
-        padding: 10px;
+.form-group {
+    margin: 0px 40px;
+    padding: 10px;
     }
 
-    /* !important used to increase priority of CSS code written
-       border-color used to eleminate blue outline
-       border-radius set to 0 to get more of a box shape 
+ /* !important used to increase priority of CSS code written
+   border-color used to eleminate blue outline
+     border-radius set to 0 to get more of a box shape 
     */
-    .btn-primary {
-        margin-top: 30px;
-        margin-left: 30px;
-        background-color:#20B2AA !important;
-        border-color: #20B2AA !important;
-        border-radius: 0 !important;
+.btn-primary {
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color:#20B2AA !important;
+    border-color: #20B2AA !important;
+    border-radius: 0 !important;
         
     }
 
     /* ----------------------------------About Me------------------------------------------ */
-   .about-me{
-       background-color: white;
-       margin: 75px 100px 0px 20px;
-       padding: 20px;
+.about-me{
+    background-color: white;
+    margin: 75px 100px 0px 20px;
+    padding: 20px;
    }
 
    
@@ -73,16 +72,15 @@ body {
 
    /* -----------------------------------Portfolio-------------------------------------------- */
    
-   .card-body{
+.card-body{
     background-color: white;
     padding-left: 40px;
     
-    
 }
-   .portfolio {
+.myPortfolio {
     margin-top: 75px;
     width: 75%;
-    margin-left: 50px;
+    margin-left: 0px;
 }
 
   
