@@ -75,12 +75,15 @@ body {
    
    .card-body{
     background-color: white;
-    margin: 0px px;
-    padding: 10px;
-    display: inline-block;
+    padding-left: 40px;
+    
+    
 }
    .portfolio {
     margin-top: 75px;
+    width: 75%;
+    margin-left: 50px;
 }
 
+  
 /* ----------------------------------------Footer-------------------------------------------- */
