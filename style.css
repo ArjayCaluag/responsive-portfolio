@@ -73,14 +73,16 @@ nav {
    /* -----------------------------------Portfolio-------------------------------------------- */
    
 .card-body{
-    background-color: white;
+    
     padding-left: 40px;
     
 }
 .myPortfolio {
     margin-top: 75px;
     width: 75%;
-    margin-left: 0px;
+    margin-left: 60px;
+    background-color: white;
+    margin-right: 0px;
 }
 
   
